@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1701615011 source:c:\users\joãofontes\desktop\sistemade_cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701699378 source:c:\users\aluno\music\sistemade_cadastro_ofc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1701819473 source:c:\users\joãofontes\desktop\sistemade_cadastro_ofc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+
